@@ -1,0 +1,10 @@
+tensorflow==2.17.1
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+mtcnn
+imutils
+Pillow
+
